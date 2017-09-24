@@ -1,0 +1,2 @@
+# VoltimetroDigital_RaspberryPi
+CHALLENGE: Realizar comunicación entre el Raspberry Pi y el módulo conversor analógico digital MCP3002 mediante el estandar de comunicación SPI. Ademas se debe leer una tension analógica regulada por un potenciometro y debe ser impreso por consola.  Realizar comunicación entre Raspberry Pi y pantalla LCD 16x2 mediante el protocolo de comunicación I2C utilizando la interface de conversion I2C a paralelo PCF8574 . Ademas se debe imprimir en la pantalla el mensaje “Sistemas Digitales”
